@@ -1,1 +1,1 @@
-# Techguru
+# Eduhub
