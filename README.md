@@ -20,6 +20,16 @@ Eduhub is a personalized learning platform for students to customize their learn
 
 https://drive.google.com/drive/folders/1CW0YDyzNRnzoldWX7HyY3hwd55TW3odJ
 
+## Screenshots
+![Screenshot 2024-03-17 001058](https://github.com/kanishka-parmar/Eduhub/assets/114792553/a91bf396-b448-44ec-bc2c-992ae3a019f0)
+
+![Screenshot 2024-03-17 001126](https://github.com/kanishka-parmar/Eduhub/assets/114792553/137da8b1-cf88-4d55-ba3d-0dc724847cdc)
+
+![Screenshot 2024-03-17 001242](https://github.com/kanishka-parmar/Eduhub/assets/114792553/4f424f57-c7d3-48bc-af65-c4bae3cf9a66)
+
+![Screenshot 2024-03-17 001151](https://github.com/kanishka-parmar/Eduhub/assets/114792553/fe4b89c0-8986-4152-974f-0126df569bef)
+
+
 
 ## Run Locally
 
