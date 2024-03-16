@@ -15,10 +15,20 @@ Eduhub is a personalized learning platform for students to customize their learn
 - AI-Powered Recomendations
 - Interactive quizzes and badges
 - Event updates
+-----------------------------------------------------------------------------------------------
+
 
 ## Demo
 
 https://drive.google.com/drive/folders/1CW0YDyzNRnzoldWX7HyY3hwd55TW3odJ
+
+
+https://github.com/kanishka-parmar/Eduhub/assets/114792553/9cfe57b8-7f5c-4714-ba38-b05ee0ed1ec3
+
+
+
+------------------------------------------------------------------------------------------------
+
 
 ## Screenshots
 ![Screenshot 2024-03-17 001058](https://github.com/kanishka-parmar/Eduhub/assets/114792553/a91bf396-b448-44ec-bc2c-992ae3a019f0)
