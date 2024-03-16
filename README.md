@@ -45,5 +45,5 @@ Run on local server
 
 Make sure that your browser supports CSS and JS
 ```bash
-  Right click and then select open with live server
+open with live server
 ```
